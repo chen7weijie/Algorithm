@@ -13,3 +13,4 @@
 | 617| [ Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Test_617.java)|easy|
 | 94| [ Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Test_94.java)|medium|
 | 965| [ Univalued Binary Tree](https://leetcode-cn.com/problems/univalued-binary-tree/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Test_965.java)|easy|
+| 543| [ Diameter of Binary Tree](https://leetcode-cn.com/problems/diameter-of-binary-tree/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Test_543.java)|easy|
