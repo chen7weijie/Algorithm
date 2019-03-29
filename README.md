@@ -17,3 +17,4 @@
 | 257| [ Binary Tree Paths](https://leetcode-cn.com/problems/binary-tree-paths/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Test_257.java)|easy|
 | 700| [ search-in-a-binary-search-tree](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Test_700.java)|easy|
 | 107| [ binary-tree-level-order-traversal-ii](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Test_107.java)|easy|
+| 637| [ Average of Levels in Binary Tree](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/submissions/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Test_637.java)|easy|
