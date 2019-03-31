@@ -19,3 +19,4 @@
 | 107| [ binary-tree-level-order-traversal-ii](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Test_107.java)|easy|
 | 637| [ Average of Levels in Binary Tree](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/submissions/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Test_637.java)|easy|
 | 104| [ maximum-depth-of-binary-tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Test_104.java)|easy|
+| 98| [ validate-binary-search-tree](https://leetcode-cn.com/problems/validate-binary-search-tree/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Test_98.java)|medium|
