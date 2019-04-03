@@ -20,4 +20,5 @@
 | 637| [ Average of Levels in Binary Tree](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/submissions/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Test_637.java)|easy|
 | 104| [ maximum-depth-of-binary-tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Test_104.java)|easy|
 | 98| [ validate-binary-search-tree](https://leetcode-cn.com/problems/validate-binary-search-tree/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Test_98.java)|medium|
-| 98| [ path-sum](https://leetcode-cn.com/problems/path-sum/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Test_112.java)|easy|
+| 112| [ path-sum](https://leetcode-cn.com/problems/path-sum/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Test_112.java)|easy|
+| 111| [ minimum-depth-of-binary-tree](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Test_111.java)|easy|
