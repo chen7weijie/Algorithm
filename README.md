@@ -23,3 +23,9 @@
 | 112| [ path-sum](https://leetcode-cn.com/problems/path-sum/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Test_112.java)|easy|
 | 111| [ minimum-depth-of-binary-tree](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Test_111.java)|easy|
 | 145| [ binary-tree-postorder-traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Test_145.java)|hard|
+
+### LinkedList
+| No      | Title     | Java     | Difficulty     |
+| ---------- | :-----------:  | :-----------: |:-----------: |
+| 206| [reverse-linked-list](https://leetcode-cn.com/problems/reverse-linked-list/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Linkedlist/Test_206.java)|easy|
+| 237| [delete-node-in-a-linked-list](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Linkedlist/Test_237.java)|easy|
