@@ -34,4 +34,4 @@
 | 2| [add-two-numbers](https://leetcode-cn.com/problems/add-two-numbers/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Linkedlist/Test_2.java)|medium|
 | 21| [merge-two-sorted-lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Linkedlist/Test_21.java)|easy|
 | 203| [remove-linked-list-elements](https://leetcode-cn.com/problems/remove-linked-list-elements)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Linkedlist/Test_203.java)|easy|
-| 237| [delete-node-in-a-linked-list](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Linkedlist/Test_237.java)|easy|
+| 83| [remove-duplicates-from-sorted-list](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Linkedlist/Test_83.java)|easy|
