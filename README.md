@@ -35,3 +35,8 @@
 | 21| [merge-two-sorted-lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Linkedlist/Test_21.java)|easy|
 | 203| [remove-linked-list-elements](https://leetcode-cn.com/problems/remove-linked-list-elements)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Linkedlist/Test_203.java)|easy|
 | 83| [remove-duplicates-from-sorted-list](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Linkedlist/Test_83.java)|easy|
+
+### Array
+| No      | Title     | Java     | Difficulty     |
+| ---------- | :-----------:  | :-----------: |:-----------: |
+| 977| [Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/Test_977.java)|easy|
