@@ -40,3 +40,7 @@
 | No      | Title     | Java     | Difficulty     |
 | ---------- | :-----------:  | :-----------: |:-----------: |
 | 977| [Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/Test_977.java)|easy|
+| 905| [sort-array-by-parity](https://leetcode-cn.com/problems/sort-array-by-parity/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/Test_905.java)|easy|
+| 509| [fibonacci-number](https://leetcode-cn.com/problems/fibonacci-number/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/Test_509.java)|easy|
+| 922| [sort-array-by-parity-ii](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/Test_922.java)|easy|
+| 561| [array-partition-i](https://leetcode-cn.com/problems/array-partition-i/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/Test_561.java)|easy|
