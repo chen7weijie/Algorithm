@@ -45,3 +45,4 @@
 | 922| [sort-array-by-parity-ii](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/Test_922.java)|easy|
 | 561| [array-partition-i](https://leetcode-cn.com/problems/array-partition-i/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/Test_561.java)|easy|
 | 53| [maximum-subarray](https://leetcode-cn.com/problems/maximum-subarray/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/Test_53.java)|easy|
+| 66| [plus-one](https://leetcode-cn.com/problems/plus-one/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/Test_66.java)|easy|
