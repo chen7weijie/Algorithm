@@ -46,3 +46,5 @@
 | 561| [array-partition-i](https://leetcode-cn.com/problems/array-partition-i/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/Test_561.java)|easy|
 | 53| [maximum-subarray](https://leetcode-cn.com/problems/maximum-subarray/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/Test_53.java)|easy|
 | 66| [plus-one](https://leetcode-cn.com/problems/plus-one/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/Test_66.java)|easy|
+| 217| [contains-duplicate](https://leetcode-cn.com/problems/contains-duplicate/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/Test_217.java)|easy|
+| 268| [missing-number](https://leetcode-cn.com/problems/missing-number/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/Test_268.java)|easy|
