@@ -51,3 +51,5 @@
 | 35| [search-insert-position](https://leetcode-cn.com/problems/search-insert-position/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/Test_35.java)|easy|
 | 27| [remove-element](https://leetcode-cn.com/problems/remove-element/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/Test_27.java)|easy|
 | 746| [min-cost-climbing-stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/Test_746.java)|easy|
+| 169| [majority-element](https://leetcode-cn.com/problems/majority-element/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/Test_169.java)|easy|
+| 121| [best-time-to-buy-and-sell-stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/Test_121.java)|easy|
