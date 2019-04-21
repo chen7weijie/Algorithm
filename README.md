@@ -53,3 +53,8 @@
 | 746| [min-cost-climbing-stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/Test_746.java)|easy|
 | 169| [majority-element](https://leetcode-cn.com/problems/majority-element/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/Test_169.java)|easy|
 | 121| [best-time-to-buy-and-sell-stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/Test_121.java)|easy|
+
+### String
+| No      | Title     | Java     | Difficulty     |
+| ---------- | :-----------:  | :-----------: |:-----------: |
+| 771| [jewels-and-stones](https://leetcode-cn.com/problems/jewels-and-stones/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/String/Test_771.java)|easy|
