@@ -21,7 +21,7 @@ package Leetcode.Array;
         注意这五个元素可为任意顺序。
 
         你不需要考虑数组中超出新长度后面的元素。*/
-public class Test_27 {
+public class RemoveElenment {
     public int removeElement(int[] nums, int val) {
         int count=0;
         for(int i=0;i<nums.length;i++){
