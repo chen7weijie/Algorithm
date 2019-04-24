@@ -40,20 +40,20 @@
 ### Array
 | No      | Title     | Java     | Difficulty     |
 | ---------- | :-----------:  | :-----------: |:-----------: |
-| 977| [Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/Test_977.java)|easy|
-| 905| [sort-array-by-parity](https://leetcode-cn.com/problems/sort-array-by-parity/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/Test_905.java)|easy|
-| 509| [fibonacci-number](https://leetcode-cn.com/problems/fibonacci-number/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/Test_509.java)|easy|
-| 922| [sort-array-by-parity-ii](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/Test_922.java)|easy|
-| 561| [array-partition-i](https://leetcode-cn.com/problems/array-partition-i/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/Test_561.java)|easy|
-| 53| [maximum-subarray](https://leetcode-cn.com/problems/maximum-subarray/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/Test_53.java)|easy|
-| 66| [plus-one](https://leetcode-cn.com/problems/plus-one/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/Test_66.java)|easy|
-| 217| [contains-duplicate](https://leetcode-cn.com/problems/contains-duplicate/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/Test_217.java)|easy|
-| 268| [missing-number](https://leetcode-cn.com/problems/missing-number/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/Test_268.java)|easy|
-| 35| [search-insert-position](https://leetcode-cn.com/problems/search-insert-position/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/Test_35.java)|easy|
-| 27| [remove-element](https://leetcode-cn.com/problems/remove-element/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/Test_27.java)|easy|
-| 746| [min-cost-climbing-stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/Test_746.java)|easy|
-| 169| [majority-element](https://leetcode-cn.com/problems/majority-element/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/Test_169.java)|easy|
-| 121| [best-time-to-buy-and-sell-stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/Test_121.java)|easy|
+| 977| [Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/SortedSquares.java)|easy|
+| 905| [sort-array-by-parity](https://leetcode-cn.com/problems/sort-array-by-parity/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/SortArrayByParity.java)|easy|
+| 509| [fibonacci-number](https://leetcode-cn.com/problems/fibonacci-number/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/Fib.java)|easy|
+| 922| [sort-array-by-parity-ii](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/SortArrayByParityII.java)|easy|
+| 561| [array-partition-i](https://leetcode-cn.com/problems/array-partition-i/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/ArrayPairSum.java)|easy|
+| 53| [maximum-subarray](https://leetcode-cn.com/problems/maximum-subarray/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/MaxSubArray.java)|easy|
+| 66| [plus-one](https://leetcode-cn.com/problems/plus-one/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/PlusOne.java)|easy|
+| 217| [contains-duplicate](https://leetcode-cn.com/problems/contains-duplicate/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/ContainsDuplicate.java)|easy|
+| 268| [missing-number](https://leetcode-cn.com/problems/missing-number/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/MissingNumber.java)|easy|
+| 35| [search-insert-position](https://leetcode-cn.com/problems/search-insert-position/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/SearchInsert.java)|easy|
+| 27| [remove-element](https://leetcode-cn.com/problems/remove-element/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/RemoveElement.java)|easy|
+| 746| [min-cost-climbing-stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/MinCostClimbingStairs.java)|easy|
+| 169| [majority-element](https://leetcode-cn.com/problems/majority-element/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/MajorityElement.java)|easy|
+| 121| [best-time-to-buy-and-sell-stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/MaxProfit.java)|easy|
 
 ### String
 | No      | Title     | Java     | Difficulty     |
