@@ -1,6 +1,6 @@
 package Leetcode.Array;
 
-public class Test_53 {
+public class MaxSubArray {
     public int maxSubArray(int[] nums) {
         int[] sum=new int[nums.length];
         sum[0]=nums[0];

@@ -11,7 +11,7 @@ package Leetcode.Array;
 
         输入: [2,2,1,1,1,2,2]
         输出: 2*/
-public class Test_169 {
+public class MajorityElement {
     public int majorityElement(int[] nums) {
         int num=nums[0];
         int count=0;

@@ -1,6 +1,6 @@
 package Leetcode.Array;
 
-public class Test_509 {
+public class Fib {
     public int fib(int N) {
         if(N==0){
             return 0;

@@ -19,7 +19,7 @@ package Leetcode.Array;
 
         输入: [1,3,5,6], 0
         输出: 0*/
-public class Test_35 {
+public class SearchInsert {
     public int searchInsert(int[] nums, int target) {
         int res=0;
         int len=nums.length;

@@ -19,7 +19,7 @@ package Leetcode.Array;
 
         cost 的长度将会在 [2, 1000]。
         每一个 cost[i] 将会是一个Integer类型，范围为 [0, 999]。*/
-public class Test_746 {
+public class MinCostClimbingStairs {
     public int minCostClimbingStairs(int[] cost) {
         int len=cost.length;
         int[] dp=new int[len];

@@ -14,7 +14,7 @@ import java.util.Arrays;
         说明:
         你的算法应具有线性时间复杂度。你能否仅使用额外常数空间来实现?*/
 
-public class Test_268 {
+public class MissingNumber {
     public int missingNumber(int[] nums) {
         int len=nums.length;
         Arrays.sort(nums);

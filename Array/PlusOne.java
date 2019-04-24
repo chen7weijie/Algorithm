@@ -15,7 +15,7 @@ package Leetcode.Array;
         输入: [4,3,2,1]
         输出: [4,3,2,2]
         解释: 输入数组表示数字 4321。*/
-public class Test_66 {
+public class PlusOne {
     public int[] plusOne(int[] digits) {
         for(int i=digits.length-1;i>=0;i--){
             if(digits[i]!=9){

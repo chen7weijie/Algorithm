@@ -1,6 +1,6 @@
 package Leetcode.Array;
 
-public class Test_905 {
+public class SortArrayByParity {
     public int[] sortArrayByParity(int[] A) {
         int[] result=new int[A.length];
         int pre=0;
