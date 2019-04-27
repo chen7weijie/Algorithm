@@ -54,6 +54,8 @@
 | 746| [min-cost-climbing-stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/MinCostClimbingStairs.java)|easy|
 | 169| [majority-element](https://leetcode-cn.com/problems/majority-element/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/MajorityElement.java)|easy|
 | 121| [best-time-to-buy-and-sell-stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/MaxProfit.java)|easy|
+| 26| [remove-duplicates-from-sorted-array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/RemoveDuplicates.java)|easy|
+| 485| [max-consecutive-ones](https://leetcode-cn.com/problems/max-consecutive-ones/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/FindMaxConsecutiveOnes.java)|easy|
 
 ### String
 | No      | Title     | Java     | Difficulty     |
