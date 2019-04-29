@@ -24,6 +24,7 @@
 | 111| [ minimum-depth-of-binary-tree](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Test_111.java)|easy|
 | 145| [ binary-tree-postorder-traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Test_145.java)|hard|
 | 606| [ construct-string-from-binary-tree](https://leetcode-cn.com/problems/construct-string-from-binary-tree/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Test_606.java)|easy|
+| 938| [ range-sum-of-bst](https://leetcode-cn.com/problems/range-sum-of-bst/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Tree/RangeSumBST.java)|easy|
 
 ### LinkedList
 | No      | Title     | Java     | Difficulty     |
@@ -56,6 +57,7 @@
 | 121| [best-time-to-buy-and-sell-stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/MaxProfit.java)|easy|
 | 26| [remove-duplicates-from-sorted-array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/RemoveDuplicates.java)|easy|
 | 485| [max-consecutive-ones](https://leetcode-cn.com/problems/max-consecutive-ones/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/FindMaxConsecutiveOnes.java)|easy|
+| 303| [range-sum-query-immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/NumArray.java)|easy|
 
 ### String
 | No      | Title     | Java     | Difficulty     |
