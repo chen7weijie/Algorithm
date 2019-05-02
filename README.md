@@ -66,3 +66,4 @@
 | 709| [to-lower-case](https://leetcode-cn.com/problems/to-lower-case/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/String/Test_709.java)|easy|
 | 657| [robot-return-to-origin](https://leetcode-cn.com/problems/robot-return-to-origin/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/String/Test_657.java)|easy|
 | 520| [detect-capital](https://leetcode-cn.com/problems/detect-capital/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/String/DetectCapitalUse.java)|easy|
+| 804| [unique-morse-code-words](https://leetcode-cn.com/problems/unique-morse-code-words/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/String/UniqueMorseRepresentations.java)|easy|
