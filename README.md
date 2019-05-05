@@ -58,6 +58,7 @@
 | 26| [remove-duplicates-from-sorted-array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/RemoveDuplicates.java)|easy|
 | 485| [max-consecutive-ones](https://leetcode-cn.com/problems/max-consecutive-ones/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/FindMaxConsecutiveOnes.java)|easy|
 | 303| [range-sum-query-immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/NumArray.java)|easy|
+| 495| [teemo-attacking](https://leetcode-cn.com/problems/teemo-attacking/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/FindPoisonedDuration.java)|medium|
 
 ### String
 | No      | Title     | Java     | Difficulty     |
@@ -67,3 +68,4 @@
 | 657| [robot-return-to-origin](https://leetcode-cn.com/problems/robot-return-to-origin/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/String/Test_657.java)|easy|
 | 520| [detect-capital](https://leetcode-cn.com/problems/detect-capital/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/String/DetectCapitalUse.java)|easy|
 | 804| [unique-morse-code-words](https://leetcode-cn.com/problems/unique-morse-code-words/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/String/UniqueMorseRepresentations.java)|easy|
+| 521| [longest-uncommon-subsequence-i](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/String/FindLUSlength.java)|easy|
