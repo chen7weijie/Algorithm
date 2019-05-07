@@ -59,6 +59,7 @@
 | 485| [max-consecutive-ones](https://leetcode-cn.com/problems/max-consecutive-ones/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/FindMaxConsecutiveOnes.java)|easy|
 | 303| [range-sum-query-immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/NumArray.java)|easy|
 | 495| [teemo-attacking](https://leetcode-cn.com/problems/teemo-attacking/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/FindPoisonedDuration.java)|medium|
+| 832| [flipping-an-image](https://leetcode-cn.com/problems/flipping-an-image/)| [✓](https://github.com/chen7weijie/Algorithm/blob/master/Array/FlipAndInvertImage.java)|easy|
 
 ### String
 | No      | Title     | Java     | Difficulty     |
